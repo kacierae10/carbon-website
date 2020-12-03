@@ -1,0 +1,7 @@
+name: Side panel
+website_url: https://pages.github.ibm.com/cdai-design/pal/components/side-panel/style
+maintainer: Kacie Eberhart
+description: Side panels keep users in-context of a page while performing tasks like navigating, editing, viewing details, or configuring something new.
+platform: Web
+aliases: panel
+date_added: 020-12-03T01:53:00.000Z
